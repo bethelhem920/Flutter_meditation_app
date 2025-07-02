@@ -8,7 +8,6 @@ created by:
 
 @bethelhem Nigussu 1201186
 
-@Hermela Asamenew  1201986
 
 ## Getting Started
 
